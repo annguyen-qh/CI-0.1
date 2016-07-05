@@ -1,5 +1,5 @@
-FROM jenkins
+FROM ubuntu
 MAINTAINER annguyen
 EXPOSE 9010
-echo "Hello"
+RUN echo "Hello"
 RUN date
