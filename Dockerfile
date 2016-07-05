@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM jenkins
 MAINTAINER annguyen
 EXPOSE 9010
 echo "Hello"
